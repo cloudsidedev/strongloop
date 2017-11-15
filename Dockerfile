@@ -1,4 +1,4 @@
-FROM node:6
+FROM node:9
 
 MAINTAINER Ivo Marino <ivo.marino@ttss.ch>
 
